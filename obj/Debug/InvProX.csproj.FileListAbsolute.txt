@@ -1,0 +1,11 @@
+C:\Users\Wesley\Desktop\Proj\InvProX\bin\Debug\InvProX.exe.config
+C:\Users\Wesley\Desktop\Proj\InvProX\bin\Debug\InvProX.exe
+C:\Users\Wesley\Desktop\Proj\InvProX\bin\Debug\InvProX.pdb
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.AssemblyReference.cache
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InventoryProX.Properties.Resources.resources
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InventoryProX.InvProX.resources
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.GenerateResource.cache
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.exe
+C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.pdb
