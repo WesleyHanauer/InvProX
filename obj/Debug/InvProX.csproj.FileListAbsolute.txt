@@ -9,3 +9,14 @@ C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.GenerateResource.c
 C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.CoreCompileInputs.cache
 C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.exe
 C:\Users\Wesley\Desktop\Proj\InvProX\obj\Debug\InvProX.pdb
+C:\Users\ti\Desktop\Proj\InvProX\bin\Debug\InvProX.exe.config
+C:\Users\ti\Desktop\Proj\InvProX\bin\Debug\InvProX.exe
+C:\Users\ti\Desktop\Proj\InvProX\bin\Debug\InvProX.pdb
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.AssemblyReference.cache
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.SuggestedBindingRedirects.cache
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InventoryProX.Properties.Resources.resources
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InventoryProX.InvProX.resources
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.GenerateResource.cache
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InvProX.csproj.CoreCompileInputs.cache
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InvProX.exe
+C:\Users\ti\Desktop\Proj\InvProX\obj\Debug\InvProX.pdb
