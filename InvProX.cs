@@ -27,6 +27,9 @@ namespace InventoryProX
             this.Load += OpenExistingItems;
             this.FormClosing += SaveChangesOnExit;
             dataGridView1.AllowUserToAddRows = false;
+            txtName.KeyUp += new KeyEventHandler(AddItemOnHotkey);
+            txtDescription.KeyUp += new KeyEventHandler(AddItemOnHotkey);
+            dataGridView1.KeyUp += new KeyEventHandler(DeleteItemOnHotkey);
         }
 
         private void OpenExistingItems(object sender, EventArgs e)
@@ -89,6 +92,14 @@ namespace InventoryProX
             ResetDataSource();
         }
 
+        private void AddItemOnHotkey(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                AddEVT(null, null);
+            }
+        }
+
         private void DeleteEVT(object sender, EventArgs e)
         {
             foreach (DataGridViewRow row in dataGridView1.SelectedRows)
@@ -97,6 +108,14 @@ namespace InventoryProX
                 items.Remove(item);
             }
             ResetDataSource();
+        }
+
+        private void DeleteItemOnHotkey(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Back)
+            {
+                DeleteEVT(null, null);
+            }
         }
     }
 }
